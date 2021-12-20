@@ -2,16 +2,16 @@ Pankaj Singh Kanyal
 ===================
 
 >## EDUCATION
-- **CHANDIGARH UNIVERSITY (2020 - 2024)**
-	-	B-TECH Computer Science	
-- **GEN B C JOSHI APS PITHORAGARH (2015-2019)**
-	-	CLASS  X, 9.2 CGPA
-	- 	CLASS  XII 90.2% 
+>- **CHANDIGARH UNIVERSITY (2020 - 2024)**
+>	-	B-TECH Computer Science	
+>- **GEN B C JOSHI APS PITHORAGARH (2015-2019)**
+>	-	CLASS  X, 9.2 CGPA
+>	- 	CLASS  XII 90.2% 
 
 >## PROJECTS
--	Banking Management System ( C++ )
-- 	Boston-House Prediction (Python, Linear Regression)
--   Dice Simulator App ( Kotlin )
+>-	Banking Management System ( C++ )
+>- 	Boston-House Prediction (Python, Linear Regression)
+>-   Dice Simulator App ( Kotlin )
 
 >## SKILLS
 <br>
@@ -42,17 +42,17 @@ Pankaj Singh Kanyal
 <br>
 
 >## INTERESTS
-- Competitive Programming
-- Machine Learning
-- Android Development 
-- Playing Football
+>- Competitive Programming
+>- Machine Learning
+>- Android Development 
+>- Playing Football
 
 >## HOBBIES
-- Watching Movies
-- Solving Puzzles
+>- Watching Movies
+>- Solving Puzzles
 
 >## VOLUNTEERING
-- IEEE CUSB as a Event Planner March 2021 - September 2021
+>- IEEE CUSB as a Event Planner March 2021 - September 2021
 
 >## Contact
 -  <a href="https://twitter.com/Pankajsingh_016" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/twitter.png" height="50" width="50" /></a>
