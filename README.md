@@ -1,10 +1,29 @@
-# pankajsingh016.github.io
 # Pankaj Singh Kanyal
 
-### Example Portfolio
 
-### Project 1
-This is Line 1 of my project
+## EDUCATION
+- Gen B C Joshi APS Pithoragarh 
+- X
+- XII
 
+- BTECH CSE UG, Chandigarh University Punjab
+- UG
 
-### [Project 2](https://www.markdownguide.org/basic-syntax/)
+## PROJECTS
+-	Banking Management System ( C++ )
+-   Dice Simulator App ( Kotlin )
+
+## SKILLS
+- C++
+- Python
+- 
+- 
+
+## INTERESTS
+- Competitive Programming
+- Machine Learning
+- Android Development
+- 
+
+## VOLUNTEERING
+- IEEE CUSB as a Event Planner March 2021 - September 2021
