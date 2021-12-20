@@ -3,12 +3,11 @@ Pankaj Singh Kanyal
 
 >## EDUCATION
 
-&nbsp;&nbsp;&nbsp;&nbsp; - **B-TECH Computer Science**
+ - **B-TECH Computer Science**
 	- Chandigarh University Punjab (India) 2020 - 2024
-***
-&nbsp;&nbsp;&nbsp;&nbsp; - **Gen B C Joshi APS Pithoragarh** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;	- Class X  
-&nbsp;&nbsp;&nbsp;&nbsp;	- Class XII
+ - **Gen B C Joshi APS Pithoragarh**
+	- Class X  
+	- Class XII
 
 >  
 >## PROJECTS
@@ -30,11 +29,26 @@ Pankaj Singh Kanyal
 <br>
 
 >## Tools and Technologies
-- Pycharm
-- Jupyter notebook 
-- VS code 
-- Android Studio
-- GIT
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+	
+	- Pycharm
+	- Jupyter notebook 
+	- VS code 
+	- Android Studio
+	- GIT
+	- Matplotlib
+	- seaborn
+	- numpy
+- pandas
 
 >## INTERESTS
 - Competitive Programming
