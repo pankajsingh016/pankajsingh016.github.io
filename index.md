@@ -2,12 +2,13 @@ Pankaj Singh Kanyal
 ===================
 
 >## EDUCATION
+	- ![Education]()
 
-- **B-TECH Computer Science**
+<!-- - **B-TECH Computer Science**
 	- Chandigarh University Punjab (India) 2020 - 2024
 - **Gen B C Joshi APS Pithoragarh**
 	- Class X  
-	- Class XII
+	- Class XII -->
 
 >  
 >## PROJECTS
