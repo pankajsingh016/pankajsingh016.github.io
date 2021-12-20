@@ -24,7 +24,7 @@ Pankaj Singh Kanyal
 </a>
 <a href="https://www.canva.com/q/pro/?utm_source=google_sem&utm_medium=cpc&utm_campaign=in_en_all_pro_rev_conversion_branded-tier1_em&utm_term=REV_IN_EN_CanvaPro_Branded_Tier1_Canva_EM&utm_content=1712_control&gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o1ZIg2LxqxX1_Q0nzfjidSUQ9exxKvoRN6iXkEUaXlJFApDbo8PwOAaArJgEALw_wcB&gclsrc=aw.ds" ><img src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/canvaimage.png" height="60" width="60"/>
 </a>
-<a href="https://fxhome.com/product/hitfilm-express/features"><img src="" height="50" width="50"></a>
+<a href="https://fxhome.com/product/hitfilm-express/features"><img src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/hitfilm.png" height="50" width="50"></a>
 <br>
 <br>
 
