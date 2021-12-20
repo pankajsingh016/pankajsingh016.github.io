@@ -1,29 +1,41 @@
-# Pankaj Singh Kanyal
+Pankaj Singh Kanyal
+===================
 
+>## EDUCATION
 
-## EDUCATION
-- Gen B C Joshi APS Pithoragarh 
-- X
-- XII
+- **B-TECH Computer Science**
+	- Chandigarh University Punjab (India)
+	- 2020 - 2024
+***
+- **Gen B C Joshi APS Pithoragarh** 
+	- Class X  
+	- Class XII
 
-- BTECH CSE UG, Chandigarh University Punjab
-- UG
-
-## PROJECTS
+>  
+>## PROJECTS
 -	Banking Management System ( C++ )
 -   Dice Simulator App ( Kotlin )
 
-## SKILLS
+>## SKILLS
 - C++
 - Python
-- 
-- 
+- Canva
 
-## INTERESTS
+>## Tools and Technologies
+- Pycharm
+- Jupyter notebook 
+- VS code 
+- Android Studio
+- GIT
+
+>## INTERESTS
 - Competitive Programming
 - Machine Learning
-- Android Development
-- 
+- Android Development 
 
-## VOLUNTEERING
+>## HOBBIES
+- Watching Movies
+- Solving Puzzles
+
+>## VOLUNTEERING
 - IEEE CUSB as a Event Planner March 2021 - September 2021
