@@ -3,9 +3,9 @@ Pankaj Singh Kanyal
 
 >## EDUCATION
 
- - **B-TECH Computer Science**
+- **B-TECH Computer Science**
 	- Chandigarh University Punjab (India) 2020 - 2024
- - **Gen B C Joshi APS Pithoragarh**
+- **Gen B C Joshi APS Pithoragarh**
 	- Class X  
 	- Class XII
 
@@ -48,7 +48,7 @@ Pankaj Singh Kanyal
 	- Matplotlib
 	- seaborn
 	- numpy
-- pandas
+	- pandas
 
 >## INTERESTS
 - Competitive Programming
@@ -64,5 +64,5 @@ Pankaj Singh Kanyal
 - IEEE CUSB as a Event Planner March 2021 - September 2021
 
 >>## Contact<<<
--  <a href="https://twitter.com/Pankajsingh_016" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="30" /></a>
-<a href="https://www.linkedin.com/in/pankaj-kanyal-2060291b2/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" /></a><br>
+-  <a href="https://twitter.com/Pankajsingh_016" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/pankaj-kanyal-2060291b2/" target="_blank"><img align="center" src="" height="20" width="30" /></a><br>
