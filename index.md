@@ -29,26 +29,19 @@ Pankaj Singh Kanyal
 <br>
 
 >## Tools and Technologies
+<br>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/vscodeimage.png" height="50" width="50" /></a>
 <a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/jupyterimage.png" height="50" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/androidstudio.png" height="50" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/matplotlib.png" height="50" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/seaborn.png" height="50" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/numpy.png" height="50" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/pandas.png" height="50" width="40" /></a>
 <a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="" height="20" width="30" /></a>
-	
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/pankajsingh016/pankajsingh016.github.io/main/images/giticon.png" height="50" width="50" /></a>
+<br>
 	- Pycharm
-	- Jupyter notebook 
-	- VS code 
-	- Android Studio
-	- GIT
-	- Matplotlib
-	- seaborn
-	- numpy
-	- pandas
 
 >## INTERESTS
 - Competitive Programming
@@ -63,6 +56,6 @@ Pankaj Singh Kanyal
 
 - IEEE CUSB as a Event Planner March 2021 - September 2021
 
->>## Contact<<<
+>## Contact
 -  <a href="https://twitter.com/Pankajsingh_016" target="_blank"><img align="center" src="" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/pankaj-kanyal-2060291b2/" target="_blank"><img align="center" src="" height="20" width="30" /></a><br>
