@@ -2,18 +2,16 @@ Pankaj Singh Kanyal
 ===================
 
 >## EDUCATION
-	- ![Education]()
 
-<!-- - **B-TECH Computer Science**
-	- Chandigarh University Punjab (India) 2020 - 2024
-- **Gen B C Joshi APS Pithoragarh**
-	- Class X  
-	- Class XII -->
-
->  
+- **CHANDIGARH UNIVERSITY (2020 - 2024)**
+	-	B-TECH Computer Science	
+- **GEN B C JOSHI APS PITHORAGARH (2015-2019)**
+	-	CLASS  X, 9.2 CGPA
+	- 	CLASS  XII 90.2% 
 >## PROJECTS
 -	Banking Management System ( C++ )
 -   Dice Simulator App ( Kotlin )
+- 	Boston-House Prediction (Python, Linear Regression)
 
 >## SKILLS
 <br>
@@ -47,6 +45,7 @@ Pankaj Singh Kanyal
 - Competitive Programming
 - Machine Learning
 - Android Development 
+- Playing Football
 
 >## HOBBIES
 - Watching Movies
